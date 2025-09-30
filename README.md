@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rashid</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 
-Hi, I'm *Muhammad Rashid, a Software Engineer with a focus on **Flutter Development.I have developed strong skills in **Flutter, **Dart, and **Firebase* for cross-platform app development, working towards becoming a professional Flutter developer.
+Hi, I'm *Muhammad Huzaifa, a Software Engineer with a focus on **Flutter Development.I have developed strong skills in **Flutter, **Dart, and **Firebase* for cross-platform app development, working towards becoming a professional Flutter developer.
 
 I'm looking to collaborate on innovative projects in the web development and tech industry.
 
@@ -24,13 +24,13 @@ I'm looking to collaborate on innovative projects in the web development and tec
 ## 📞 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/muhammad-rashid-59062a295/" target="_blank" >
+  <a href="https://www.linkedin.com/feed/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Muhammad-Rashid-172002" target="_blank">
+  <a href="https://github.com/Muhamma-Huzaifa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="muhammadrashid172002@gmail.com" target="_blank">
+  <a href=" mh2368912@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"  />
   </a>
 </p>
